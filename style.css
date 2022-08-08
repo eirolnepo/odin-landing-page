@@ -39,3 +39,21 @@ h1{
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.sign-up-btn{
+    width: 104px;
+    padding: 8px;
+    border-radius: 8px;
+    background: #3882F6;
+    color: white;
+}
+
+.placeholder{
+    width: 500px;
+    height: 250px;
+    background: #6D757C;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
