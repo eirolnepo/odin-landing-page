@@ -17,6 +17,12 @@ li{
     list-style: none;
 }
 
+ul{
+    display: flex;
+    gap: 28px;
+    margin-left: auto;
+}
+
 .header{
     width: 100%;
     padding: 24px;
@@ -24,8 +30,14 @@ li{
     color: white;
 }
 
+.nav{
+    display: flex;
+    gap: 8px;
+}
+
 .header-logo{
     font-size: 24px;
+    font-weight: 700;
     color: #F9FAF8;
 }
 
