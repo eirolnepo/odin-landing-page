@@ -143,6 +143,7 @@ h1{
     font-size: 18px;
     font-weight: 700;
     margin-left: 1100px;
+<<<<<<< HEAD
 }
 
 .sign-up{
@@ -203,4 +204,6 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+=======
+>>>>>>> a8010cbb88ea7f26f03c490f83b721024769bbaa
 }
