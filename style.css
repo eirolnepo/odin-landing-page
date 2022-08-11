@@ -193,3 +193,14 @@ h1{
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background: #1F2937;
+    color: #E5E7EB;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
